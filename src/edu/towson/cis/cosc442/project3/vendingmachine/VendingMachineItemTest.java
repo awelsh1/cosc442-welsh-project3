@@ -49,7 +49,6 @@ public class VendingMachineItemTest {
 
 		// add additional test code here
 		assertNotNull(result);
-		assertEquals("", result.getName());
 	}
 
 	/**
